@@ -1,4 +1,4 @@
-### Hi there 👋,I'm sriram
+### Hi there 👋
 🌱 I’m currently learning frontend development.
 
 <!--
